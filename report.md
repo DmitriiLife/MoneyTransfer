@@ -8,7 +8,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* [Дефект №1](https://github.com/DmitriiLife/java3/issues/1)
+* [issue](https://github.com/DmitriiLife/java3/issues/1)
 
 ## Описание процесса тестирования
 
